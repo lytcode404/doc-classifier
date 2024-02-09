@@ -28,9 +28,9 @@ filename = "Legal Documents"
 df = pd.read_csv('./db/train/'+filename+'.csv')
 
 # only run this if it has empty cols:
-# del df['Unnamed: 2']
-# del df['Unnamed: 3']
-# del df['Legal Document']
+del df['Unnamed: 2']
+del df['Unnamed: 3']
+del df['Legal Document']
 
 # df.rename(columns={'Content': 'content',
 #           'Category': 'category'}, inplace=True)
@@ -62,5 +62,5 @@ for content, category in messages_test:
     print(test_metric)
 
 
-with open('predict-doc.pkl', 'wb') as f:
+with open('predict-doc2.pkl', 'wb') as f:
     pickle.dump(model, f)
