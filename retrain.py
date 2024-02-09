@@ -28,9 +28,9 @@ filename = "Legal Documents"
 df = pd.read_csv('./db/train/'+filename+'.csv')
 
 # only run this if it has empty cols:
-del df['Unnamed: 2']
-del df['Unnamed: 3']
-del df['Legal Document']
+# del df['Unnamed: 2']
+# del df['Unnamed: 3']
+# del df['Legal Document']
 
 # df.rename(columns={'Content': 'content',
 #           'Category': 'category'}, inplace=True)
