@@ -62,5 +62,5 @@ for content, category in messages_test:
     print(test_metric)
 
 
-with open('predict-doc2.pkl', 'wb') as f:
+with open('predict-doc.pkl', 'wb') as f:
     pickle.dump(model, f)

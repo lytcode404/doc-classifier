@@ -1,0 +1,491 @@
+content,category
+"Legal information
+© Copyright 2022 HP Development
+Company, L.P.
+Bluetooth is a trademark owned by its
+proprietor and used by HP Inc. under license.
+Intel, Celeron, and Pentium are trademarks
+of Intel Corporation or its subsidiaries in
+the U.S. and/or other countries. Windows is
+either a registered trademark or trademark
+of Microsoft Corporation in the United
+States and/or other countries. USB TypeC® and USB-C® are registered trademarks
+of USB Implementers Forum. DisplayPort™
+and the DisplayPort™ logo are trademarks
+owned by the Video Electronics Standards
+Association (VESA) in the United States and
+other countries. Miracast® is a registered
+trademark of Wi-Fi Alliance.
+The information contained herein is subject
+to change without notice. The only
+warranties for HP products and services are
+set forth in the express warranty statements
+accompanying such products and services.
+Nothing herein should be construed as
+constituting an additional warranty. HP shall
+not be liable for technical or editorial errors
+or omissions contained herein.
+First Edition: April 2022
+Document Part Number: N06377-001
+Product notice
+This guide describes features that are
+common to most products. Some features
+might not be available on your computer.
+Not all features are available in all
+editions or versions of Windows. Systems
+may require upgraded and/or separately
+purchased hardware, drivers, software
+or BIOS update to take full advantage
+of Windows functionality. Windows is
+automatically updated, which is always
+enabled. High-speed internet and Microsoft
+account required. ISP fees may apply and
+additional requirements may apply over time
+for updates. See http://www.windows.com.
+If your product ships with Windows in S
+Mode: Windows in S Mode works exclusively
+with apps from the Microsoft Store within
+Windows. Certain default settings, features,
+and apps cannot be changed. Some
+accessories and apps that are compatible
+with Windows may not work (including some
+antivirus, PDF writers, driver utilities, and
+accessibility apps), and performance may
+vary, even if you switch out of S Mode. If you
+switch to Windows, you cannot switch back
+to S Mode. Learn more at Windows.com/
+SmodeFAQ.
+To access the latest user guides, go to
+http://www.hp.com/support, and follow the
+instructions to find your product. Then select
+Manuals.
+Software terms
+By installing, copying, downloading, or
+otherwise using any software product
+preinstalled on this computer, you agree
+to be bound by the terms of the HP End
+User License Agreement (EULA). If you
+do not accept these license terms, your
+sole remedy is to return the entire unused
+product (hardware and software) within 14
+days for a full refund subject to the refund
+policy of your seller.
+For any further information or to request
+a full refund of the price of the computer,
+please contact your seller.",Technical Manuals
+"Best practices
+After you set up and register the computer, we recommend the following steps to get the most out of
+your smart investment:
+● Back up your hard drive by creating recovery media. See Backing up, restoring, and recovering on
+page 57.
+● If you haven’t already done so, connect to a wired or wireless network. See details in Connecting to a
+network on page 17.
+● Become familiar with the computer hardware and software. For more information, see Getting to
+know your computer on page 3 and Enjoying entertainment features on page 21.
+● Update or purchase antivirus software. See Using antivirus software on page 45.
+● Access HP Support Assistant app—For quick online support, open the HP Support Assistant
+app (select products only). HP Support Assistant optimizes computer performance and resolves
+problems using the latest software updates, diagnostic tools, and guided assistance. Select the
+Search icon in the taskbar, type support in the search box, and then select HP Support Assistant.
+More HP resources
+To locate resources that provide product details, how-to information, and more, use this table.
+Table 1-1 Additional information
+Resource Contents
+Setup Instructions ● Overview of computer setup and features
+HP support
+For HP support, go to http://www.hp.com/support, and
+follow the instructions to find your product.
+‒ or –
+Select the Search icon in the taskbar, type support in
+the search box, and then select HP Support Assistant.
+‒ or –
+Select the question mark icon in the taskbar.
+● Online chat with an HP technician
+● Support telephone numbers
+● Replacement parts videos (select products only)
+● Maintenance and service guides
+● HP service center locations",Technical Manuals
+"3 Connecting to a network
+Your computer can travel with you wherever you go. But even at home, you can explore the globe and
+access information from millions of websites by using your computer and a wired or wireless network
+connection. This chapter helps you get connected to that world.
+Connecting to a wireless network
+Your computer might be equipped with one or more wireless devices.
+● WLAN device—Connects the computer to wireless local area networks (commonly referred to as
+Wi-Fi networks, wireless LANs, or WLANs) in corporate offices, your home, and public places such
+as airports, restaurants, coffee shops, hotels, and universities. The WLAN device in your computer
+communicates with a wireless router or a wireless access point.
+● HP Mobile Broadband Module—Gives you wireless connectivity over a wireless wide area network
+(WWAN), a much larger area. Mobile network operators install base stations (similar to cell phone
+towers) throughout large geographic areas, effectively providing coverage across entire states,
+regions, or even countries.
+● Bluetooth® device—Creates a personal area network (PAN) to connect to other Bluetooth-enabled
+devices such as computers, phones, printers, headsets, speakers, and cameras. In a PAN, each
+device communicates directly with other devices, and devices must be relatively close together—
+typically within 10 m (approximately 33 ft) of each other.
+Using the wireless controls
+You can control the wireless devices in your computer using one or more features.
+● Airplane mode key (also called wireless button or wireless key)
+● Operating system controls
+Airplane mode key
+The computer might have an airplane mode key, one or more wireless devices, and one or two wireless
+lights. All the wireless devices on your computer are enabled at the factory.
+The wireless light indicates the overall power state of your wireless devices, not the status of individual
+devices.
+Operating system controls
+The Network and Sharing Center allows you to set up a connection or network, connect to a network,
+and diagnose and repair network problems.
+To use operating system controls:
+On the taskbar, right-click the network status icon, and then select Network and Internet settings.
+Connecting to a WLAN
+Before you can connect to a WLAN with this procedure, you must first set up internet access.",Technical Manuals
+"Standards and legislation
+Countries worldwide are enacting regulations to improve access to products and services for persons
+with disabilities. These regulations are historically applicable to telecommunications products and
+services, PCs and printers with certain communications and video playback features, their associated
+user documentation, and their customer support.
+Standards
+The US Access Board created Section 508 of the Federal Acquisition Regulation (FAR) standards to
+address access to information and communication technology (ICT) for people with physical, sensory, or
+cognitive disabilities.
+The standards contain technical criteria specific to various types of technologies, as well as
+performance-based requirements which focus on functional capabilities of covered products. Specific
+criteria cover software applications and operating systems, web-based information and applications,
+computers, telecommunications products, video and multimedia, and self-contained closed products.
+Mandate 376 – EN 301 549
+The European Union created the EN 301 549 standard within Mandate 376 as an online toolkit for public
+procurement of ICT products. The standard specifies the accessibility requirements applicable to ICT
+products and services, with a description of the test procedures and evaluation methodology for each
+requirement.
+Web Content Accessibility Guidelines (WCAG)
+Web Content Accessibility Guidelines (WCAG) from the W3C's Web Accessibility Initiative (WAI) helps
+web designers and developers create sites that better meet the needs of people with disabilities or
+age-related limitations.
+WCAG advances accessibility across the full range of web content (text, images, audio, and video)
+and web applications. WCAG can be precisely tested, is easy to understand and use, and allows web
+developers flexibility for innovation. WCAG 2.0 has also been approved as ISO/IEC 40500:2012.
+WCAG specifically addresses barriers to accessing the web experienced by people with visual, auditory,
+physical, cognitive, and neurological disabilities, and by older web users with accessibility needs. WCAG
+2.0 provides characteristics of accessible content:
+● Perceivable (for instance, by addressing text alternatives for images, captions for audio, adaptability
+of presentation, and color contrast)
+● Operable (by addressing keyboard access, color contrast, timing of input, seizure avoidance, and
+navigability)
+● Understandable (by addressing readability, predictability, and input assistance)
+● Robust (for instance, by addressing compatibility with assistive technologies)",Technical Manuals
+"For a complete guide to using your camera, see the Reference
+Manual (0 iv). To get the most from your camera, please be sure
+to read this User’s Manual thoroughly and keep it where it will be
+read by all who use the product.
+Symbols and Conventions
+To make it easier to find the information you need, the following
+symbols and conventions are used:
+This icon marks cautions; information that should be read before
+D use to prevent damage to the camera.
+This icon marks notes; information that should be read before
+A using the camera.
+0 This icon marks references to other pages in this manual.
+Menu items, options, and messages displayed in the camera monitor are
+shown in bold.
+Camera Settings
+The explanations in this manual assume that default settings are used.",Technical Manuals
+"For a complete guide to using your camera, see the Reference
+Manual (0 iv). To get the most from your camera, please be sure
+to read this User’s Manual thoroughly and keep it where it will be
+read by all who use the product.
+Symbols and Conventions
+To make it easier to find the information you need, the following
+symbols and conventions are used:
+This icon marks cautions; information that should be read before
+D use to prevent damage to the camera.
+This icon marks notes; information that should be read before
+A using the camera.
+0 This icon marks references to other pages in this manual.
+Menu items, options, and messages displayed in the camera monitor are
+shown in bold.
+Camera Settings
+The explanations in this manual assume that default settings are used.
+Nikon Manual Viewer 2
+Install the Nikon Manual Viewer 2 app on your smartphone or
+tablet to view Nikon digital camera manuals, anytime,
+anywhere. Nikon Manual Viewer 2 can be downloaded free of
+charge from the App Store and Google Play. Download of the
+app and any product manuals requires an Internet
+connection, for which fees may be levied by your phone or
+Internet service provider.
+A For Your Safety
+Before using the camera for the first time, read the safety instructions
+in “For Your Safety” (0 viii–xi).",Technical Manuals
+"Package Contents
+Confirm that the package contains the following items:
+DK-25 rubber eyecup
+BF-1B body cap
+D3300 camera
+EN-EL14a rechargeable Li-ion battery (with terminal cover)
+MH-24 battery charger (plug adapter supplied in countries or
+regions where required; shape depends on country of sale)
+AN-DC3 strap
+UC-E17 USB cable
+EG-CP14 audio/video cable
+ViewNX 2 CD-ROM
+User’s Manual (this booklet)
+Warranty
+Purchasers of the lens kit option should confirm that the
+package also includes a lens. Memory cards are sold separately
+(0 95). Cameras purchased in Japan display menus and
+messages in English and Japanese only; other languages are not
+supported. We apologize for any inconvenience this may cause.",Technical Manuals
+"Quick Start Guide
+Follow these steps for a quick start with the D3300.
+1 Attach the camera strap (0 11).
+Attach the strap as shown. Repeat for
+the second eyelet.
+2 Charge the battery (0 11).
+3 Insert the battery and memory card (0 12).
+4 Attach a lens (0 13).
+ii5 Turn the camera on (0 14).
+6 Choose a language and set the camera clock (0 15).
+7 Frame the photograph (0 24).",Technical Manuals
+"The Reference Manual
+For more information on using your Nikon camera, download a
+pdf copy of the camera Reference Manual from the website listed
+below. The Reference Manual can be viewed using Adobe Reader
+or Adobe Acrobat Reader 5.0 or later.
+1 On your computer, launch a web browser and open the
+following site: http://downloadcenter.nikonimglib.com/
+2 Choose a language and download the Reference Manual.
+3 Double-click the downloaded file.",Technical Manuals
+"Notices
+• No part of the manuals included
+• Nikon will not be held liable for any
+with this product may be
+damages resulting from the use of
+reproduced, transmitted,
+this product.
+transcribed, stored in a retrieval
+• While every effort has been made to
+system, or translated into any
+ensure that the information in these
+language in any form, by any means, manuals is accurate and complete,
+without Nikon’s prior written
+we would appreciate it were you to
+permission.
+bring any errors or omissions to the
+• Nikon reserves the right to change
+attention of the Nikon
+the appearance and specifications
+representative in your area (address
+of the hardware and software
+provided separately).
+described in these manuals at any
+time and without prior notice.
+Notice for Customers in Canada
+CAN ICES-3 B / NMB-3 B
+Notices for Customers in Europe
+CAUTION: RISK OF EXPLOSION IF BATTERY IS REPLACED BY AN INCORRECT
+TYPE. DISPOSE OF USED BATTERIES ACCORDING TO THE INSTRUCTIONS.
+xii
+This symbol indicates that
+electrical and electronic
+equipment is to be
+collected separately.This symbol on the battery
+indicates that the battery
+is to be collected
+separately.
+The following apply only
+to users in European countries:
+• This product is designated for
+separate collection at an
+appropriate collection point. Do not
+dispose of as household waste.
+• Separate collection and recycling
+helps conserve natural resources
+and prevent negative consequences
+for human health and the
+environment that might result from
+incorrect disposal.
+• For more information, contact the
+retailer or the local authorities in
+charge of waste management.The following apply only to users in
+European countries:
+• All batteries, whether marked with
+this symbol or not, are designated
+for separate collection at an
+appropriate collection point. Do not
+dispose of as household waste.
+• For more information, contact the
+retailer or the local authorities in
+charge of waste management.",Technical Manuals
+"Notices for Customers in the U.S.A.
+The Battery Charger
+IMPORTANT SAFETY INSTRUCTIONS—SAVE THESE
+INSTRUCTIONS
+DANGER—TO REDUCE THE RISK OF FIRE OR ELECTRIC
+SHOCK, CAREFULLY FOLLOW THESE INSTRUCTIONS
+For connection to a supply not in the U.S.A., use an attachment plug adapter
+of the proper configuration for the power outlet if needed. This power unit
+is intended to be correctly oriented in a vertical or floor mount position.
+Federal Communications Commission (FCC) Radio Frequency Interference Statement
+This equipment has been tested and
+found to comply with the limits for a
+Class B digital device, pursuant to Part 15
+D3300
+of the FCC rules. These limits are
+designed to provide reasonable
+CAUTIONS
+protection against harmful interference
+Modifications
+in a residential installation. This
+The FCC requires the user be notified
+equipment generates, uses, and can
+that any changes or modifications
+radiate radio frequency energy and, if
+made to this device that are not
+not installed and used in accordance
+expressly approved by Nikon
+with the instructions, may cause harmful
+Corporation may void the user’s
+interference to radio communications.
+authority to operate the equipment.
+However, there is no guarantee that
+interference will not occur in a particular Interface Cables
+Use the interface cables sold or
+installation. If this equipment does
+cause harmful interference to radio or provided by Nikon for your
+equipment. Using other interface
+television reception, which can be
+determined by turning the equipment cables may exceed the limits of Class
+off and on, the user is encouraged to try B Part 15 of the FCC rules.
+to correct the interference by one or
+Notice for Customers in the State of California
+more of the following measures:
+WARNING: Handling the cord on this
+• Reorient or relocate the receiving
+product may expose you to lead, a
+antenna.
+chemical known to the State of
+• Increase the separation between the
+California to cause birth defects or
+equipment and receiver.
+other reproductive harm. Wash hands
+• Connect the equipment into an
+after handling.
+outlet on a circuit different from that
+to which the receiver is connected. Nikon Inc., 1300 Walt Whitman Road,
+• Consult the dealer or an experienced Melville, New York 11747-3064, U.S.A.
+radio/television technician for help. Tel.: 631-547-4200",Technical Manuals
+"Notice Concerning Prohibition of Copying or Reproduction
+Note that simply being in possession of material that has been digitally
+copied or reproduced by means of a scanner, digital camera, or other device
+may be punishable by law.
+• Items prohibited by law from being copied • Cautions on certain copies and
+reproductions
+or reproduced
+The government has issued cautions
+Do not copy or reproduce paper
+money, coins, securities, government on copies or reproductions of
+bonds, or local government bonds,
+securities issued by private
+companies (shares, bills, checks, gift
+even if such copies or reproductions
+certificates, etc.), commuter passes, or
+are stamped “Sample.”
+coupon tickets, except when a
+The copying or reproduction of
+minimum of necessary copies are to
+paper money, coins, or securities
+be provided for business use by a
+which are circulated in a foreign
+company. Also, do not copy or
+country is prohibited.
+reproduce passports issued by the
+Unless the prior permission of the
+government, licenses issued by public
+government has been obtained, the agencies and private groups, ID cards,
+copying or reproduction of unused
+and tickets, such as passes and meal
+postage stamps or post cards issued coupons.
+by the government is prohibited.
+• Comply with copyright notices
+The copying or reproduction of
+The copying or reproduction of
+stamps issued by the government
+copyrighted creative works such as
+and of certified documents
+books, music, paintings, woodcuts,
+stipulated by law is prohibited.
+prints, maps, drawings, movies, and
+photographs is governed by national
+and international copyright laws. Do
+not use this product for the purpose
+of making illegal copies or to infringe
+copyright laws.",Technical Manuals
+"Introduction
+Getting to Know the Camera
+Take a few moments to familiarize yourself with camera controls
+and displays. You may find it helpful to bookmark this section
+and refer to it as you read through the rest of the manual.",Technical Manuals
+"Turning the Monitor Off
+To clear shooting information from the monitor, press the R button or
+press the shutter-release button halfway. The monitor will turn off
+automatically if no operations are performed for about 8 seconds (the
+Auto off timers option in the setup menu, can be used to choose how
+long the monitor remains on).",Technical Manuals
+"First Steps
+Always turn the camera off before inserting or removing
+batteries or memory cards.
+1 Attach the strap.
+Attach the strap as shown. Repeat for the second eyelet.
+2 Charge the battery.
+If a plug adapter is supplied, raise the wall plug and connect
+the plug adapter as shown below at left, making sure the
+plug is fully inserted. Insert the battery and plug the charger
+in. An exhausted battery will fully charge in about an hour
+and 50 minutes.
+Battery charging
+Charging complete",Technical Manuals
+"About this manual
+•         This user manual is specially designed to detail the computer’s
+functions and features.
+•         The user manual supplied with the computer may vary
+depending on the model.
+•         Please read this manual before using the computer to ensure
+safe and proper use.
+•         Optional items, some devices and software referred to in the
+user manual may not be provided or subject to upgrades.
+Note that the computer environment referred in the user
+manual may not be the same as your environment.
+•         Descriptions are based on the computer’s default settings
+and Windows 8.1 operating system. Available features and
+additional services may vary by computer or operating
+system.",Technical Manuals
+"Using Camera Menus
+The multi selector and J button are used to navigate the
+camera menus.
+Move cursor up
+J button: select
+highlighted item
+Cancel and return to
+previous menu
+Select highlighted item or
+display sub-menu
+Move cursor down
+Follow the steps below to navigate the menus.
+1 Display the menus.
+Press the G button to display the
+menus.",Technical Manuals
+"Connecting the AC adapter Charge the battery before using it for the first time. Use the AC adapter to charge the battery. • Use only Samsung-approved AC adapters, batteries, and cables. Unapproved adapters or cables can cause the battery to explode or damage the computer. • Incorrectly connecting the charger may cause serious damage to the computer. To restore the battery power after cutting it, connect the AC adapter. 1 Connect the power cable to the AC adapter. 2 Connect the AC adapter to the DC jack of the computer.",Technical Manuals
+"1 Introduction Maintaining an accurate log book can be a tedious affair. The GPS Log Book is a simple device that, together with an online system, greatly simplifies and assists this process. The benefits of the additional tax savings make it a very worthwhile device to own. Keeping an accurate log book of business and personal travel is not only required as a legal prerequisite by the South African Revenue Service (SARS) if travel expenses are to be claimed, it also allows claims to be based on the actual distances travelled. Without a Log book it would not be possible to claim for travel deductions. 1.1 Who can benefit from keeping an accurate Log Book  Sole proprietors, commission earners  Employees who receive a travel allowance  Employees, directors, members who use a company owned vehicle 1.2 Key Features of GPS Log Book  User friendly and well-designed online system  SARS Compliance  Google Maps used to display trips  Customisation of start and end points (zones) specific to any trip  One year warranty period from date of purchase  Easy to add new vehicles  Easy to use on different computers  Ample storage capacity  Frequent recording interval on the device  No annual or monthly subscription fees are associated with the GPS Log Book and related services",Technical Manuals
+"6.3 Upload Data from the GPS Log Book Device
+After successfully creating an account and registering your device, you are ready to upload trip data to the website.
+1. Connect the GPS Log Book device to the computer using the USB cable provided.
+2. The Sync Application will automatically download any trip data from the device and upload it to the GPS Log Book server.
+3. The LED on the device will turn Red while data transfer is in progress.
+4. Once all the data has been downloaded from the device and new aiding data downloaded to the device, a message will be displayed
+stating that it is safe to disconnect the device and the LED on the device will turn Blue.
+6.4 Register an Additional Vehicles
+The following process outlines how to add additional vehicles to an existing account. Please note that a device can only have one active vehicle
+linked to it. This means that even if you have multiple vehicles registered only one can be linked to a specific device. All the trips recorded by the
+device will be assigned to the active vehicle.
+1. Navigate to the Account tab on the main menu and select Vehicles from the drop down list.
+2. A list of vehicles associated to the account will be displayed.",Technical Manuals

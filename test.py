@@ -3,7 +3,7 @@ from creme import metrics
 from helper import transform_text
 
 # Load the model from the file
-with open('predict-doc.pkl', 'rb') as f:
+with open('predict-doc2.pkl', 'rb') as f:
     loaded_model = pickle.load(f)
 
 content = '''
